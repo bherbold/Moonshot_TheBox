@@ -45,7 +45,7 @@ def Controller_main(arduino):
                 arduino.write('D'.encode())
                 time.sleep(0.5)
                 arduino.write('X'.encode())
-                print("Disconnect Battery")
+                print("Cloud mode")
 
             else:
                 print("No Valid Input")
