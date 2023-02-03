@@ -5,8 +5,6 @@ Fab Lab Prototype of The Box
 ## Project Description
 This program is used to model a smart grid connection called The Box.
 
-![Assembly_side2](https://user-images.githubusercontent.com/64031996/216669645-b8344bd3-3300-400c-93cf-9837357cc060.png)
-
 ## Requirements
 
 To run this program, you will need the following:
